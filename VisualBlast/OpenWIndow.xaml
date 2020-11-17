@@ -14,7 +14,7 @@
                 <Grid Background="#FFE5E5E5" Margin="0,0,0,0">
                     <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="245" Margin="10,36,0,0"/>
                     <Label Content="Load template ..." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="119"/>
-                    <Label Content="Name:" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top" Width="100" Height="27"/>
+                    <Label Content="Field name:" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top" Width="100" Height="27"/>
                     <TextBox HorizontalAlignment="Left" Height="23" Margin="115,84,0,0"   VerticalAlignment="Top" Width="140" MaxLength="20"/>
                     <Label Content="Bench elevation:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,112,0,0"
           Width="100" Height="27"/>
